@@ -9,5 +9,5 @@ steps:
     cpiApiServiceKeyCredentialsId: CPISuite-Europe-09
     integrationFlowId: I050368-flow4
     integrationFlowName: I050368-flow4
-    packageId: CICD
+    packageId: CICDDEMO
     filePath: I050368-flow4.zip
